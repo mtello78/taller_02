@@ -1,0 +1,6 @@
+projectKey=io.caltamirano:microservicio-seguridad
+serverUrl=http://localhost:5000
+serverVersion=8.8.0.42792
+dashboardUrl=http://localhost:5000/dashboard?id=io.caltamirano%3Amicroservicio-seguridad
+ceTaskId=AXkmzxNhf9zBbNMznaa6
+ceTaskUrl=http://localhost:5000/api/ce/task?id=AXkmzxNhf9zBbNMznaa6
